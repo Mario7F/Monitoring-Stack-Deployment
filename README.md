@@ -18,6 +18,3 @@ This repository automates the deployment of a monitoring stack using Prometheus 
 ## 🚀 Features
 - Shell script automation
 - Grafana/Prometheus setup
-- Basic Apache virtual host example
-- PHP test file
-- UFW firewall rules
