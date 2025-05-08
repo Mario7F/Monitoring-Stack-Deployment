@@ -9,7 +9,6 @@ This repository automates the deployment of a monitoring stack using Prometheus 
 
 
 ## 📂 Structure
-- `install.sh`: Master install script
 - `config/`: Grafana and Promethus configuration files
 - `grafana/`: setup and initialization scripts
 - `prometheus/`: setup and initialization scripts
