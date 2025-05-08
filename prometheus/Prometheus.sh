@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo” Prometheus Server”
+echo "Prometheus Server”
 
 sudo dnf install -y http://mirror.linuxtrainingacademy.com/grafana/influxdb-1.8.2.x86_64.rpm
 sudo systemctl start influxdb
